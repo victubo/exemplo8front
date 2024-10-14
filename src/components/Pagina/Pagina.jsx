@@ -32,7 +32,7 @@ const Pagina =()=>{
                     <button className="border rounded-2xl bg-blue-400 text-black shadow-sm p-1 px-2 m-2" >
                         Projetos
                     </button>
-                    <button className="border rounded-2xl bg-blue-400 text-black shadow-sm p-1 px-2 m-2 hover:bg-blue-300">
+                    <button className="border rounded-2xl bg-blue-400 text-black shadow-sm p-1 px-2 m-2 hover:bg-blue-300 transition">
                         Comunidade Dev
                     </button>
                 </div>
