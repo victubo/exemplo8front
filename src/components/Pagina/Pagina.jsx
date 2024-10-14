@@ -5,7 +5,7 @@ const Pagina =()=>{
 
     return (
         <>
-        <h1 className="text-3xl font-bold underline text-center text-red-600">Perfil Dev</h1>
+        <h1 className="text-3xl font-bold underline text-center text-blue-400">Perfil Dev</h1>
 
         <div className="relative w-96 m-3 cursor-pointer border-2 shadow-lg rounded-xl items-center">
             <div className="flex h-28 bg-blue-700 rounded-xl items-center justify-center">
@@ -29,10 +29,10 @@ const Pagina =()=>{
                     </span>          
                 </div>
                 <div className=" flex flex-wrap items-center rounded-b-xl border-t-2 bg-white">
-                    <button className="border rounded-2xl bg-red-400 text-black shadow-sm p-1 px-2 m-2" >
+                    <button className="border rounded-2xl bg-blue-400 text-black shadow-sm p-1 px-2 m-2" >
                         Projetos
                     </button>
-                    <button className="border rounded-2xl bg-red-400 text-black shadow-sm p-1 px-2 m-2 hover:bg-green-500">
+                    <button className="border rounded-2xl bg-blue-400 text-black shadow-sm p-1 px-2 m-2 hover:bg-blue-300">
                         Comunidade Dev
                     </button>
                 </div>
@@ -44,7 +44,7 @@ const Pagina =()=>{
         <div className='text-center space-y-2 sm:text-left'>
             <div className='space-y-0.5'>
                 <p className='text-lg text-black font-semibold'>
-                    Wellington
+                    Nino
                 </p>
                 <p className='text-slate-500 font-medium'>
                     Engenheiro de Software
